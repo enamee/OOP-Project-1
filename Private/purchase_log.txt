@@ -1,0 +1,94 @@
+Time: Fri Aug 04 15:33:22 2023
+CPU:  - 0 BDT
+Motherboard: Gigabyte H610M H - 9900 BDT
+RAM:
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+SSD:
+Total cost: 20350 BDT
+
+Time: Fri Aug 04 17:07:13 2023
+CPU: Intel Core i3-12100 - 13300 BDT
+Motherboard: Gigabyte H610M H - 9900 BDT
+RAM:
+SSD:
+Total price: 23200 BDT
+Discounted price: 23200
+
+Time: Fri Aug 04 17:09:44 2023
+CPU: Intel Core i3-12100 - 13300 BDT
+Motherboard: Gigabyte H610M H - 9900 BDT
+RAM:
+SSD:
+Total price: 23200 BDT
+Discounted price: 18560
+
+Time: Fri Aug 04 17:35:25 2023
+CPU:  - 0 BDT
+Motherboard:  - 0 BDT
+RAM:
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+SSD:
+Total price: 10000 BDT
+Discounted price: 10000
+
+Time: Fri Aug 04 17:37:45 2023
+CPU:  - 0 BDT
+Motherboard: Gigabyte H610M H - 9900 BDT
+RAM:
+SSD:
+Total price: 9900 BDT
+Discounted price: 9900
+
+Time: Sat Aug 05 18:29:32 2023
+CPU:  - 0 BDT
+Motherboard: MSI PRO H510M-B - 8900 BDT
+RAM:
+SSD:
+Total price: 8900 BDT
+Discounted price: 8900
+
+Time: Sun Aug 06 19:44:05 2023
+CPU: Intel Core i7-13700 - 44000 BDT
+Motherboard: ASRock B660M PHANTOM GAMING 4 - 15000 BDT
+RAM:
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+- Adata Premier 4GB- 1475 BDT
+SSD:
+- Biwintech NX500- 4100 BDT
+- Biwintech NX500- 4100 BDT
+- Biwintech NX500- 4100 BDT
+- Biwintech NX500- 4100 BDT
+- Biwintech NX500- 4100 BDT
+Total price: 97775 BDT
+Discounted price: 58665
+
+Time: Sun Aug 06 20:08:40 2023
+CPU: Intel Core i5-13600K - 36000 BDT
+Motherboard: ASRock B660M PHANTOM GAMING 4 - 15000 BDT
+RAM:
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+- Corsair Vengeance LPX- 2500 BDT
+SSD:
+- Western Digital Blue SN550- 3950 BDT
+- Western Digital Blue SN550- 3950 BDT
+Total price: 68900 BDT
+Discounted price: 68900
+
